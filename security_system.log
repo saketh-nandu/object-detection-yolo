@@ -1,0 +1,11 @@
+2025-07-17 23:30:19,479 - INFO - YOLOv5 model loaded successfully
+2025-07-17 23:30:19,480 - INFO - YOLO Security System initialized on cpu
+2025-07-17 23:30:19,482 - INFO - Configuration saved to security_config.json
+2025-07-17 23:30:23,508 - INFO - Starting video stream from source: 0
+2025-07-17 23:30:47,313 - WARNING - SECURITY ALERT: ['person'] detected at 2025-07-17 23:30:47.313971
+2025-07-17 23:30:47,336 - INFO - Evidence saved: evidence\alert_1_20250717_233047.jpg
+2025-07-17 23:30:57,471 - INFO - Incident recorded: incident_20250717_233047.mp4
+2025-07-17 23:31:04,037 - WARNING - SECURITY ALERT: ['person'] detected at 2025-07-17 23:31:04.037520
+2025-07-17 23:31:04,044 - INFO - Evidence saved: evidence\alert_2_20250717_233104.jpg
+2025-07-17 23:31:14,070 - INFO - Incident recorded: incident_20250717_233104.mp4
+2025-07-17 23:31:24,813 - INFO - Incident recorded: incident_20250717_233114.mp4

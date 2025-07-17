@@ -1,0 +1,16 @@
+{
+  "model_path": "yolov5s.pt",
+  "conf_threshold": 0.5,
+  "alert_cooldown": 30,
+  "security_classes": {
+    "person": 0,
+    "bicycle": 1,
+    "car": 2,
+    "motorcycle": 3,
+    "bus": 5,
+    "truck": 7,
+    "knife": 43,
+    "cell phone": 67,
+    "laptop": 63
+  }
+}
